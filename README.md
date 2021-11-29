@@ -1,7 +1,7 @@
-Họ và tên: Nguyễn Trần Trung Hiếu 
-MSSV: 16520405
-Khoa: Khoa học máy tính
-Thuộc nhóm HNH lớp Cs519
+Họ và tên: Nguyễn Trần Trung Hiếu.
+MSSV: 16520405.
+Khoa: Khoa học máy tính.
+Thuộc nhóm HNH lớp Cs519.
 Những hoạt động liên quan tới điểm quá trình:
 - Trả lời câu hỏi điểm danh
 - Xin vắng một buổi để đi tiêm vaccine
